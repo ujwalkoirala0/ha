@@ -1,0 +1,8 @@
+---
+layout: none
+permalink: /.well-known/appspecific/com.tesla.3p.public-key.pem
+---
+-----BEGIN PUBLIC KEY-----
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4AVYg8dL8mURK2mqXF0lFnHjpPr6
+MN2M/xhCL98EsyaCLOdypqFbFn+3gaKw3XfQyJPOEpw2tGmkeI9Bw5l/QQ==
+-----END PUBLIC KEY-----
